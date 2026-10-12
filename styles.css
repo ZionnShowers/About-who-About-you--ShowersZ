@@ -1,0 +1,20 @@
+body {
+    background-color:rgb(145, 145, 214);
+}
+
+h3 {
+    background-color:rgb(202, 202, 203);
+}
+
+h1, h2 {
+    background-color:rgb(255, 255, 255);
+}
+
+p{
+    color:rgb(186, 232, 255);
+}
+
+li{
+    background-color:rgb(66, 0, 171);
+    color:rgb(186, 232, 255);
+}
